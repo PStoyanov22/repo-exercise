@@ -7,8 +7,6 @@ wow
 
 Can I change something and make a conflict?
 
-add 3 lines
-Another 3 lines added
 
 Add five lines
 
