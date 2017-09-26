@@ -1,7 +1,7 @@
 https://github.com/PStoyanov22
 
 Try to make a conflict
-
+Can I change something and make a conflict?
 
 add 3 lines
 Another 3 lines added
