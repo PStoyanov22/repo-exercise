@@ -1,15 +1,16 @@
 https://github.com/PStoyanov22
 
 Try to make a conflict
-<<<<<<< HEAD
+
 
 wow
-=======
+
 Can I change something and make a conflict?
 
->>>>>>> 37ae3a5de48ecd5279540ab490e618f264934ca0
 add 3 lines
 Another 3 lines added
 
 Add five lines
+
+It is getting interesting
 
