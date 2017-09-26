@@ -1,8 +1,7 @@
 https://github.com/PStoyanov22
 
-Try to make a conflict
-Line four being changed in order to create a conflict
 
+<<<<<<< HEAD
 wow
 
 Can I change something and make a conflict?
@@ -11,6 +10,8 @@ Can I change something and make a conflict?
 Add five lines
 
 It is getting interesting
+=======
+>>>>>>> 5620a2787f8b37bfa568a785eaa21f2ff4c103af
 
 I made a change on the remote/ github and try to pull it locally
 
