@@ -1,19 +1,5 @@
 https://github.com/PStoyanov22
 
 
-<<<<<<< HEAD
-wow
-
-Can I change something and make a conflict?
-
-
-Add five lines
-
-It is getting interesting
-=======
->>>>>>> 5620a2787f8b37bfa568a785eaa21f2ff4c103af
-
-I made a change on the remote/ github and try to pull it locally
-
-Another try to resolve conflicts
+deleted all except the link
 
